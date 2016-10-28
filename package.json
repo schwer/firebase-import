@@ -20,7 +20,7 @@
     "import"
   ],
   "files": [
-    "bin/**",
+    "src/**",
     "LICENSE",
     "README.md",
     "package.json"
